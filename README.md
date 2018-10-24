@@ -9,6 +9,12 @@
 
 Seamless integration between [Rollup](https://github.com/rollup/rollup) and [PostCSS](https://github.com/postcss/postcss).
 
+---
+
+> This is a temporary (hopefully!) fork of [`rollup-plugin-postcss`](https://github.com/egoist/rollup-plugin-postcss) that exists ***only*** while waiting for PRs to merge.<br>Work needs these changes – couldn't wait any longer~
+
+---
+
 ## Install
 
 ```bash
