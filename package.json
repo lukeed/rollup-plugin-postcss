@@ -1,5 +1,5 @@
 {
-  "version": "1.7.0",
+  "version": "1.7.1",
   "name": "@lukeed/rollup-plugin-postcss",
   "description": "Seamless integration between Rollup and PostCSS",
   "main": "dist/rollup-plugin-postcss.cjs.js",
