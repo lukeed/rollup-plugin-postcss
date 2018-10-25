@@ -17,7 +17,8 @@ export default {
 
     return {
       code: css,
-      map: style.sourcemap
+      map: style.sourcemap,
+      dependencies: style.deps()
     }
   }
 }
